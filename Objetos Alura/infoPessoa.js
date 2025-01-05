@@ -1,11 +1,11 @@
 const pessoa = {
-    nome: 'Bruno Henrique',
-    idade: 187,
+    nome: 'Bruno ',
+    idade: 18,
     solteiro: true,
-    hobbies: ['mamar', 'dar', 'dancar'],
+    hobbies: ['jogar', 'dancar'],
     endereco: {
-    rua: 'Teobaldo Pinto',
-    cidade: 'Pintópolis',
+    rua: 'Junior Macedo',
+    cidade: 'Hortolândia',
     estado: 'Bahia'
     }
 }
