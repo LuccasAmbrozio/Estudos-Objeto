@@ -1,10 +1,10 @@
 const pessoas = [
-    {nome: 'Bucetosauro',idade: 18,cidade: 'Xique-Xique',
-    }, {nome: 'Pintosauro',idade: 35,cidade: 'Pintopolis',
-    }, {nome:'Cuzãosauro', idade: 999, cidade: 'Rio Tiete'}]
+    {nome: 'Caroline',idade: 18,cidade: 'Salvador',
+    }, {nome: 'Rogerio',idade: 35,cidade: 'Rio De janeiro',
+    }, {nome:'Manuel', idade: 54, cidade: 'São paulo'}]
 
 
-pessoas.push({nome:'peitosauro', idade: 555, cidade: 'tetopolis'})
+pessoas.push({nome:'Camila', idade: 42, cidade: 'Piauí'})
 
 function mostrarListaPessoa(obj) {
     obj.forEach(pessoa => {
@@ -18,4 +18,4 @@ function filtrarPorCidade(pessoas, cidade) {
 
 
 mostrarListaPessoa(pessoas)
-filtrarPorCidade(pessoas, 'Pintopolis')
+filtrarPorCidade(pessoas, 'Salvador')
