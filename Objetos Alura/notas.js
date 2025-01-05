@@ -1,7 +1,7 @@
 
 
 const pessoas = {
-    nome: 'Jergolon',
+    nome: 'Gustavo',
     notas: [5,6,8,2],
     
     calcularMediaNotas: function () {
