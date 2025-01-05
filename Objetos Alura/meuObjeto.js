@@ -9,11 +9,11 @@ const estudantes = {
     complemento: 'apto 47'
     }
 },{
-    nome:'Rubber Mafalda',
+    nome:'Mafalda',
     classe: '8° ano',
     endereco: {
     rua: 'Maria Da Penha',
-    numero: 666,
+    numero: 66,
     complemento: ''
     }
 }
