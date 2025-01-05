@@ -1,0 +1,11 @@
+{
+    "jogos": [{
+        "nome": "Black Mith Wukong",
+        "ano": 2024,
+        "preco": 300.00
+    },{
+        "nome": "Hollow knight",
+        "ano": 2017,
+        "preco": 50.00
+    }]
+}
