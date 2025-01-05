@@ -1,5 +1,5 @@
 const estudante = {
-    nome: 'Ratinho',
+    nome: 'Lucas',
     idade: 45
 }
 estudante.telefone = '99999-9999'
@@ -8,5 +8,5 @@ console.log (estudante)
 
 //alterando
 
-estudante.nome = 'Ratinho Suarez'
+estudante.nome = 'Lucas Silva'
 console.log(estudante)
